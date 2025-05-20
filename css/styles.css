@@ -97,8 +97,8 @@ footer .footer-columns {
   max-width: 200px;
 }
 
-.footer-column img {
-  width: 32px;
+.footer-column i {
+  font-size: 32px;
   margin-bottom: 10px;
 }
 
